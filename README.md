@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Yuki Wong (@zengxiaofeng233)!
 
 
- **Current Status:** Software Engineering Undergraduate | Expected Graduation: 2028
- **Location:** Guangzhou, China
+* **Current Status:** Software Engineering Undergraduate | Expected Graduation: 2028
+* **Location:** Guangzhou, China
 
 ###  About Me
 
@@ -22,6 +22,6 @@
 ### Contact
 
 * **Email**:zengxiaofeng159@qq.com
-*
+
 
 ⭐️ *Thanks for visiting! Feel free to leave a star on my repositories if you find them helpful.*
