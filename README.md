@@ -17,7 +17,7 @@
 
 ### 📈 GitHub Stats & Roast
 
-[![GitHub Roast](https://ghfind.com/api/card/zengxiaofeng233?theme=dark)](https://ghfind.com/u/zengxiaofeng233?ref=badge)
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/zengxiaofeng233?theme=dark&lang=zh)](https://ghfind.com/u/zengxiaofeng233?ref=badge)
 
 ### Contact
 
