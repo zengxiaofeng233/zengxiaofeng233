@@ -1,3 +1,27 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+👋+I'm+YukiWong;Fullstack+Developer+Major+SE+Vibe coder;" alt="Typing SVG" />
-</div>
+# Hi there 👋, I'm Yuki Wong (@zengxiaofeng233)!
+
+
+ **Current Status:** Software Engineering Undergraduate | Expected Graduation: 2028
+ **Location:** Guangzhou, China
+
+###  About Me
+
+
+*  Currently working on some exciting new projects about Comic-Con.
+*  Learning how to be a full-stack engineer.
+*  I’m looking to collaborate on open-source projects.
+
+###  Languages and Tools
+
+*Vue+JS+Rust*
+
+### 📈 GitHub Stats & Roast
+
+[![GitHub Roast](https://ghfind.com/api/card/zengxiaofeng233?theme=dark)](https://ghfind.com/u/zengxiaofeng233?ref=badge)
+
+### Contact
+
+* **Email**:zengxiaofeng159@qq.com
+*
+
+⭐️ *Thanks for visiting! Feel free to leave a star on my repositories if you find them helpful.*
